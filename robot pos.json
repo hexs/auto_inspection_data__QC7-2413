@@ -1,0 +1,54 @@
+{
+"img wh": [4096, 1536],
+    "robot": {
+        "1": {
+            "position": [93, 136, 82, 2],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [0, 768],
+                "img": null
+            }
+        },
+        "2": {
+            "position": [179, 136, 82, 2],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [1024, 768],
+                "img": null
+            }
+        },
+        "3": {
+            "position": [302, 91, 40, 2],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [2048, 768],
+                "img": null
+            }
+        }
+,
+        "4": {
+            "position": [377, 12, 29, -8],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [3072, 768],
+                "img": null
+            }
+        },
+        "5": {
+            "position": [323, 8, 0, -6],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [2048, 0],
+                "img": null
+            }
+        },
+        "6": {
+            "position": [385, 8, 0, -6],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.5, 0.5],
+                "overlay_xy": [3072, 0],
+                "img": null
+            }
+        }
+    }
+}
